@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 We are using the GeoLite2-City-Blocks-IPv4 csv file obtained from https://dev.maxmind.com/geoip/geoip2/geolite2/ as our data source.
-This file is too large to be stored in a GitHub repository, so you will need to download the file locally and add it to the /public folder.
+This file is too large to be stored in a GitHub repository, so you will need to download the file locally and add it to the /public folder. You will also need to rename it to "addressData.csv," because that is how the code accesses it.
 
 ## Available Scripts
 
